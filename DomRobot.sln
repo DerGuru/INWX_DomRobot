@@ -1,0 +1,36 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomRobotPre", "DomRobotPre\DomRobotPre.csproj", "{0E2E2482-626E-461F-A069-2231A612B30F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomRobotPost", "DomRobotPost\DomRobotPost.csproj", "{F2F72BD9-AF37-4AA0-AF8C-D0E53D2E4448}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomRobot", "DomRobotShared\DomRobot.csproj", "{DC4AAF99-5910-4784-9186-D066EA28A0C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E2E2482-626E-461F-A069-2231A612B30F}.Debug|x86.ActiveCfg = Debug|x86
+		{0E2E2482-626E-461F-A069-2231A612B30F}.Debug|x86.Build.0 = Debug|x86
+		{0E2E2482-626E-461F-A069-2231A612B30F}.Release|x86.ActiveCfg = Release|x86
+		{0E2E2482-626E-461F-A069-2231A612B30F}.Release|x86.Build.0 = Release|x86
+		{F2F72BD9-AF37-4AA0-AF8C-D0E53D2E4448}.Debug|x86.ActiveCfg = Debug|x86
+		{F2F72BD9-AF37-4AA0-AF8C-D0E53D2E4448}.Debug|x86.Build.0 = Debug|x86
+		{F2F72BD9-AF37-4AA0-AF8C-D0E53D2E4448}.Release|x86.ActiveCfg = Release|x86
+		{F2F72BD9-AF37-4AA0-AF8C-D0E53D2E4448}.Release|x86.Build.0 = Release|x86
+		{DC4AAF99-5910-4784-9186-D066EA28A0C6}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{DC4AAF99-5910-4784-9186-D066EA28A0C6}.Debug|x86.Build.0 = Debug|Any CPU
+		{DC4AAF99-5910-4784-9186-D066EA28A0C6}.Release|x86.ActiveCfg = Release|Any CPU
+		{DC4AAF99-5910-4784-9186-D066EA28A0C6}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC97196E-C184-4888-86D2-055C56791240}
+	EndGlobalSection
+EndGlobal
